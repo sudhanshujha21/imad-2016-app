@@ -13,8 +13,7 @@ html {
   color:black;
   margin:0 auto;
   margin-top:140px;
-  opacity: 0.1;
-    filter: alpha(opacity=10)
+
 }
 .prof-pic{
     border-radius:50%;
