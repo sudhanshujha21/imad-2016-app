@@ -5,5 +5,12 @@
 .h1 {
     text-align:left; 
 }
+}
+
+div {
+    opacity: 0.1;
+    filter: alpha(opacity=10); /* For IE8 and earlier */
+}
+
    
  
