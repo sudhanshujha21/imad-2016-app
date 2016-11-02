@@ -8,7 +8,7 @@ body {
 }
 
 .text-big {
-    font-size: 300%;
+    font-size: 20%;
 }
 
 .bold {
@@ -20,13 +20,3 @@ body {
     width :20px;
 }
 
-.container {
-    max-width: 800px;
-    margin:0 auto;
-    color:#4a4a4a;
-    font-family: sans-serif;
-    padding-top: 60px;
-    padding-left:20px;
-    padding-right:20px;
-    position: relative;
-}
