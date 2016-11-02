@@ -1,16 +1,19 @@
-.prof-box{
-    width:400px;
-    height:400px;
-    }
-.h1 {
-    text-align:left; 
-}
+.background {
+  background: url(klematis.jpg) repeat;
+  border: 2px solid black;
 }
 
-div {
-    opacity: 0.1;
-    filter: alpha(opacity=10); /* For IE8 and earlier */
+div.transbox {
+  margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+  filter: alpha(opacity=60); /* For IE8 and earlier */
 }
 
-   
+div.transbox p {
+  margin: 5%;
+  font-weight: bold;
+  color: #000000;
+}
  
