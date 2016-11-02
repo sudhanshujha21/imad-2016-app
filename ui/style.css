@@ -12,6 +12,8 @@ html {
    color:black;
    margin:0 auto;
    margin-top:140px;
+   background: rgb(0, 0, 0); /* The Fallback */
+   background: rgba(0, 0, 0, 0.4);
 }
 .prof-pic{
     border-radius:50%;
@@ -20,8 +22,7 @@ html {
 }
 .body{
     background-position:center;
-    background: rgb(0, 0, 0); /* The Fallback */
-    background: rgba(0, 0, 0, 0.4);
+    
 }
 .h1{
     font-weight:100;
