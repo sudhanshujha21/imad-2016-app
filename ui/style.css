@@ -9,11 +9,9 @@ html {
 .prof-box{
    width:400px;
    height:400px;
-  background: rgb(0, 0, 0); /* The Fallback */
-  background: rgba(0, 0, 0, 0.4);
-  color:black;
-  margin:0 auto;
-  margin-top:140px;
+   color:black;
+   margin:0 auto;
+   margin-top:140px;
 }
 .prof-pic{
     border-radius:50%;
@@ -21,8 +19,10 @@ html {
     width:200px;
 }
 .body{
-    background-position:center
-    }
+    background-position:center;
+    background: rgb(0, 0, 0); /* The Fallback */
+    background: rgba(0, 0, 0, 0.4);
+}
 .h1{
     font-weight:100;
     letter-spacing:6;
