@@ -5,6 +5,7 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+ font-family: Helvetica, sans-serif;
 }
 .prof-box{
    width:400px;
