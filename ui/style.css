@@ -1,32 +1,5 @@
-body {
-    font-family: sans-serif;
-    margin-top: 75px;
-}
-
-.center {
-    text-align: center;
-}
-
-.text-big {
-    font-size: 20%;
-}
-
-.bold {
-    font-weight: bold;
-}
-
-.img-medium {
-    height:20px;
-    width :20px;
-}
-
-.container {
-    max-width: 800px;
-    margin:0 auto;
-    color:#4a4a4a;
-    font-family: sans-serif;
-    padding-top: 60px;
-    padding-left:20px;
-    padding-right:20px;
-    position: relative;
+.prof-box{
+    width:400px;
+    height:400px;
+    background-color: rgba(0,0,0,0.4);
 }
