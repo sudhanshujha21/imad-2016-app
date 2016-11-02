@@ -10,7 +10,6 @@ html {
    width:400px;
    height:400px;
   background:rgb(0,0,0,0.4);
-}
-body {
-    background-image: url("paper.gif");
+  color:white;
+  margin:0 auto;
 }
